@@ -1,0 +1,12 @@
+module instruction_memory
+(Instruction , Read_Address);
+input [31:0] Read_Address ;     //The input to the whole module   32 bits
+output [31:0]Instruction ;     // The output of the whole module  32 bits        
+reg [31:0] IM [255:00];       // Instanciating a memory which will contain the instructions ist size width 32 bits and depth is 256  
+intial
+  begin
+        readmemh("machinecode.list",IM);
+  end 
+        assign Instruction = IM[Read_Address[9:2]]; // bit 0 and 1 are offset ...the next 8 bits are index(log2(256))
+endmodule    
+//  Magdy Mohamed Abdel Moneim Hafez
