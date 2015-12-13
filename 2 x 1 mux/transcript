@@ -1,2 +1,23 @@
 # Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
 # OpenFile {C:/Users/Magdy/Desktop/MIPS/2 x 1 mux/mux 2x1}
+vlib work
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/2 x 1 mux/mux 2x1}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:09:18 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/2 x 1 mux/mux 2x1 
+# -- Compiling module mux_21
+# 
+# Top level modules:
+# 	mux_21
+# End time: 21:09:18 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/2 x 1 mux/mux 2x1}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:09:21 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/2 x 1 mux/mux 2x1 
+# -- Compiling module mux_21
+# 
+# Top level modules:
+# 	mux_21
+# End time: 21:09:21 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

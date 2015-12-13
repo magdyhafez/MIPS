@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Magdy/Desktop/MIPS/4 x 1 mux
+vmux_41
+!s110 1450034305
+!i10b 1
+!s100 h6jGBQPdkP7^6ilIX<HZJ3
+If4f@ad@=m:A_aD^9M5mHD3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1450034301
+8C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux
+FC:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux
+L0 1
+OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1450034305.000000
+!s107 C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux|
+!s90 -reportprogress|300|-work|work|C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux|
+!s101 -O0
+!i113 1
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0

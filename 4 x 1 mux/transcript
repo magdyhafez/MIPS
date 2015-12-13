@@ -1,0 +1,112 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+vlib work
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:10:29 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux 
+# -- Compiling module mux_41
+# ** Error: (vlog-13069) C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux(1): near "sel0": syntax error, unexpected IDENTIFIER, expecting ')'.
+# 
+# End time: 21:10:29 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:10:32 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux 
+# -- Compiling module mux_41
+# ** Error: (vlog-13069) C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux(1): near "sel0": syntax error, unexpected IDENTIFIER, expecting ')'.
+# 
+# End time: 21:10:32 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:11:06 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux 
+# -- Compiling module mux_41
+# ** Error: (vlog-13069) C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux(9): near "=": syntax error, unexpected '=', expecting ++ or --.
+# 
+# End time: 21:11:06 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:11:22 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux 
+# -- Compiling module mux_41
+# ** Error: (vlog-13069) C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux(9): near "=": syntax error, unexpected '=', expecting ++ or --.
+# 
+# End time: 21:11:22 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:12:32 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux 
+# -- Compiling module mux_41
+# ** Error: (vlog-13069) C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux(9): near "=": syntax error, unexpected '=', expecting ++ or --.
+# 
+# End time: 21:12:32 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:13:16 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux 
+# -- Compiling module mux_41
+# ** Error: (vlog-13069) C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux(9): near "and": syntax error, unexpected and.
+# 
+# End time: 21:13:16 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:15:35 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux 
+# -- Compiling module mux_41
+# ** Error: (vlog-13069) C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux(9): near "=": syntax error, unexpected '=', expecting ++ or --.
+# 
+# End time: 21:15:35 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:16:42 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux 
+# -- Compiling module mux_41
+# ** Error: (vlog-13069) C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux(9): near "and": syntax error, unexpected and.
+# 
+# End time: 21:16:42 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:17:19 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux 
+# -- Compiling module mux_41
+# ** Error: (vlog-13069) C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux(9): near "and": syntax error, unexpected and.
+# 
+# End time: 21:17:19 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:17:23 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux 
+# -- Compiling module mux_41
+# ** Error: (vlog-13069) C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux(9): near "and": syntax error, unexpected and.
+# 
+# End time: 21:17:23 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:18:08 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux 
+# -- Compiling module mux_41
+# ** Error: (vlog-13069) C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux(11): near "=": syntax error, unexpected '='.
+# 
+# End time: 21:18:08 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux}
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 21:18:25 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/4 x 1 mux/4 x 1 mux 
+# -- Compiling module mux_41
+# 
+# Top level modules:
+# 	mux_41
+# End time: 21:18:25 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
