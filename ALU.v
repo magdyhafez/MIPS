@@ -18,3 +18,4 @@ always @(ALUcontrolinput,FirstOperand,SecondOperand)
 	endcase;
   end	
 endmodule  
+// Done By mohamed ismail
