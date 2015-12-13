@@ -1,2 +1,52 @@
 # Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
 # OpenFile C:/Users/Magdy/Desktop/MIPS/PC/PC
+# Cannot determine language of C:/Users/Magdy/Desktop/PC compiled
+vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/PC/PC
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 20:31:37 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/PC/PC 
+# ** Error: (vlog-66) Execution of vlib failed. Please check the error log for more details.
+# 
+# End time: 20:31:37 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlib work
+vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/PC/PC.bak
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 20:31:46 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/PC/PC.bak 
+# -- Compiling module pc
+# 
+# Top level modules:
+# 	pc
+# End time: 20:31:47 on Dec 13,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/PC/PC
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 20:31:53 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/PC/PC 
+# -- Compiling module pc
+# 
+# Top level modules:
+# 	pc
+# End time: 20:31:53 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/PC/PC
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 20:31:55 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/PC/PC 
+# -- Compiling module pc
+# 
+# Top level modules:
+# 	pc
+# End time: 20:31:55 on Dec 13,2015, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/PC/PC
+# Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+# Start time: 20:31:58 on Dec 13,2015
+# vlog -reportprogress 300 -work work C:/Users/Magdy/Desktop/MIPS/PC/PC 
+# -- Compiling module pc
+# 
+# Top level modules:
+# 	pc
+# End time: 20:31:59 on Dec 13,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
