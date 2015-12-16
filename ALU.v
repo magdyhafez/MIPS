@@ -15,7 +15,7 @@ always @(ALUcontrolinput,FirstOperand,SecondOperand)
 	   7: ALUOutput <= (FirstOperand < SecondOperand) ? 1 : 0;
 	   12: ALUOutput <= ~(FirstOperand | SecondOperand);
 	   default: ALUOutput <= 0;
-	endcase;
+	endcase
   end	
 endmodule  
 // Done By mohamed ismail
