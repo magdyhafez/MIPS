@@ -92,6 +92,8 @@ module mipsprocessor();
 	mux_21 thirdmux_secondalu ( secondmux_secondalu_out , read_data1 ,jumpReg ,thirdmux_secondalu_out );
 initial begin
 clk=0 ;
+reset =0 ;
+#1 reset =1 ;
 
 end 
 always begin 
