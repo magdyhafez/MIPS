@@ -37,7 +37,7 @@ module mipsprocessor();
 	wire [31:0] thirdmux_secondalu_out ;
 	wire jumpReg ;
 	
-	wire reset ;
+	reg reset ;
         reg clk ; 
 	parameter jal_reg_address =5'b11111 ;
         parameter zero =0 ; 
@@ -91,7 +91,9 @@ module mipsprocessor();
 	mux_21 secondmux_secondalu ( firstmux_secondalu_out , jump_address , j ,secondmux_secondalu_out);
 	mux_21 thirdmux_secondalu ( secondmux_secondalu_out , read_data1 ,jumpReg ,thirdmux_secondalu_out );
 initial begin
-clk=0 ;
+clk=1 ;
+reset =1;
+#1 reset=0 ;
 
 end 
 always begin 
