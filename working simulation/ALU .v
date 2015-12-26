@@ -1,11 +1,12 @@
-module ALU(ALUOutput,ZEROsignal,ALUcontrolinput,FirstOperand,SecondOperand);
+  module ALU(ALUOutput,ZEROsignal,shamt,ALUcontrolinput,FirstOperand,SecondOperand);
 input [3:0] ALUcontrolinput;
 input [31:0] FirstOperand,SecondOperand;
+input [4:0] shamt ;
 output [31:0] ALUOutput;
 output ZEROsignal;
-reg ALUOutput;
+reg [31:0] ALUOutput;
 assign ZEROsignal = (ALUOutput == 0);
-always @(ALUcontrolinput,FirstOperand,SecondOperand)
+always @(ALUcontrolinput,FirstOperand,SecondOperand,shamt)
  begin
     case (ALUcontrolinput)
 	   0: ALUOutput <= FirstOperand & SecondOperand;
@@ -13,9 +14,10 @@ always @(ALUcontrolinput,FirstOperand,SecondOperand)
 	   2: ALUOutput <= FirstOperand + SecondOperand;
 	   6: ALUOutput <= FirstOperand - SecondOperand;
 	   7: ALUOutput <= (FirstOperand < SecondOperand) ? 1 : 0;
-	   12: ALUOutput <= ~(FirstOperand | SecondOperand);
+	   12: ALUOutput <= ~(FirstOperand | SecondOperand); 
+	   13: ALUOutput <= FirstOperand<< shamt ;
 	   default: ALUOutput <= 0;
 	endcase
+	
   end	
 endmodule  
-// Done By mohamed ismail
