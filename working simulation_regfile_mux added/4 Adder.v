@@ -12,7 +12,7 @@ wire [31:0] pc;
 
 
 
- assign newpc=pc+4 ;
+ assign newpc=pc+1 ;
 
  
 endmodule 
