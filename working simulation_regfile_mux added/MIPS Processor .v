@@ -1,6 +1,5 @@
 module mipsprocessor();
 	wire [31:0] a ;
-	wire [31:0] b ;	
 	wire [31:0] instruction ;
 	wire [5:0] instruction1 ;
 	wire [4:0] instruction2 ;
