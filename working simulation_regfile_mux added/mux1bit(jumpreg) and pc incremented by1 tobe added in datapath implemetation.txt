@@ -1,0 +1,7 @@
+for the mux1bit 
+1) adding a 2*1 multiplexer having a 1bit two inputs and a 1bit ouput,it's inputs are : regwrite signal(1bit) from control unit and a zero(1bit)  
+and it's output is an input to register file(which determines whether to write in the register file or not).It's selector is jumpreg. If the 
+jumpreg value = 0(i.e it's not a jr instruction),then multiplexer output will be regwrite signal from control unit.If the 
+jumpreg value = 1(i.e it's a jr instruction),then multiplexer output will be zero because it's an R-type instruction and all R-type instructions 
+write in register file but for jr instruction(which is an R-type) we don't want to write in the register file.
+2) adder that increment the program counter will increment it by 1 not 4, since the instruction memory width in our implementation is 32 bits(1 word) not 8 bits(1 byte).
